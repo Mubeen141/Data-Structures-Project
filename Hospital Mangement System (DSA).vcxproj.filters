@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\staff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\staffNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\staffList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\patient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\patientNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\patientQueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\binaryTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\treeNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\staff.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\staffNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\staffList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\patient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\patientNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\patientQueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\Driver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\binaryTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\RAJ%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27S\Source\Repos\Hospital Mangement System (DSA)\Hospital Mangement System (DSA)\treeNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
